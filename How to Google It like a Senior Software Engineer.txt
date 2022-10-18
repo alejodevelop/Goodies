@@ -1,0 +1,28 @@
+https://youtu.be/cEBkvm0-rg0
+
+1) exact search : "search"
+2) site search : site:
+3) for excluding : -search
+4) after date :  after:date 
+   before date :  before:date	
+5) range: first..second
+6) compare: (A|B) C
+7) wildcart : *search
+8) specific filetype: filetype:pdf
+9) related site related:angular.io
+10) cache url cache:url
+
+00:00 Professional Google Searchers
+00:30 Exact
+01:07 Site
+01:22 Exclude
+01:39 Before or After
+01:55 Range
+02:06 Logic & Group
+02:20 Wildcard
+02:36 FileType
+02:48 Search the Fringe
+03:22 Competitor Research
+03:45 Cache
+
+https://cuatroclicks.com/google-commands/

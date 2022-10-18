@@ -1,0 +1,10 @@
+Escenario 1: no es ni concurrente ni paralelo. Es simplemente una ejecución secuencial, primero una tarea, después la siguiente.
+
+Escenario 2, 3 y 4: son escenarios donde se ilustra la concurrencia bajo distintas técnicas:
+
+Escenario 3: muestra como la concurrencia puede conseguirse con un único thread. 
+Pequeñas porciones de cada tarea se entrelazan para que ambas mantengan un progreso constante. 
+Esto es posible siempre y cuando las tareas puedan descompuestas en subtareas mas simples.
+
+Escenario 2 y 4: ilustran paralelismo, utilizando multiples threads donde las tareas o subtareas corren en paralelo exactamente al mismo tiempo.
+A nivel de thread, el escenario 2 es secuencial, mientras que 4 aplica entrelazado.
